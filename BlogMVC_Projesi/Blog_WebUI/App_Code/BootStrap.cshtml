@@ -1,0 +1,50 @@
+﻿@helper LinkButton(string id = "", string url = "", string color = "", string additionalClass = "", string title = "", string icon = "", string text = "")
+{
+    <a href="@url" id="@id" name="@id" class="btn btn-@color @additionalClass" title="@title"> <span class="glyphicon glyphicon-@icon"></span>  @text</a>
+}
+@helper LinkButton(string url = "", string color = "", string additionalClass = "", string title = "", string icon = "", string text = "")
+{
+    <a href="@url" class="btn btn-@color @additionalClass" title="@title"> <span class="glyphicon glyphicon-@icon"></span>  @text</a>
+}
+
+@helper Button(string id = "", string color = "", string additionalClass = "", string type = "button", string icon = "", string text = "")
+{
+    <button type="@type" id="@id" name="@id" class="btn btn-@color @additionalClass"> <span class="glyphicon glyphicon-@icon"></span>  @text</button>
+}
+
+@helper Button(string color = "", string additionalClass = "", string type = "button", string icon = "", string text = "")
+{
+    <button type="@type" class="btn btn-@color @additionalClass"> <span class="glyphicon glyphicon-@icon"></span>  @text</button>
+}
+
+@helper LinkMenu(string url = "", string icon = "", string text = "")
+{
+    <a href="@url"> <span class="glyphicon glyphicon-@icon "></span> @text</a>
+}
+@helper ModalPopup(string id = "mymodal", string title = "Modal Title", bool showCloseButton = true)
+{
+    <div class="modal fade" id="@id" name="@id" tabindex="-1" role="dialog" aria-labelledby="@(id + "_label")" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header" id="@(id + "_header")">
+                    <h3 class="modal-title" id="@(id + "_label")">@title</h3>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="@(id + "_body")">
+                    <p>
+                        Ut fusce varius nisl ac ipsum gravida vel pretium tellus tincidunt integer eu augue augue nunc elit dolor, luctus placerat.
+                        Laoreet ac, aliquam sit amet justo nunc tempor, metus vel placerat suscipit, orci nisl iaculis eros, a tincidunt nisi odio eget lorem nulla condimentum tempor mattis ut vitae feugiat augue cras ut metus a risus iaculis scelerisque eu ac ante fusce non varius purus aenean nec magna felis fusce vestibulum.
+                    </p>
+                </div>
+                <div class="modal_footer" id="@(id + "_footer")">
+                    @if (showCloseButton)
+                    {
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Kapat</button>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+}

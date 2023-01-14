@@ -1,0 +1,77 @@
+1-Asp.Net MVC projesi oluþturduk.
+2-Kullanacaðýmýz katmanlarý oluþturduk.
+-Entities
+-DataAccessLayer
+-BusinessLayer
+-WebUI katmaný
+3-Entity Classlarýmý oluþturmalýyým.
+-Category 
+-Note(Blog yazýlarý)
+-Comment(Yorumlar)
+-Liked(Beðeniler)
+-BlogUser(Uygulmayý kullanan kullanýcýlarý tutmak için oluþturacaðýz.)
+(içlerinde iliþkileri tanýmlýyoruz ve özelliklerini(required vb.) veriyoruz.)
+
+4-d.a.l. içinde abstract ve entityframework dosyalarýný oluþturuyoruz
+
+-Abstract dosyasýiçinde IRepository açýyoruz(interface olarak )
+--burada geri döndürülecek deðerler için  iþlemler yapýlýr
+-EntityFramework: Repository, Context, Singleton Classýmýz ve DBinitializer ismindeki database'i ilk oluþtururken fake verilerimizi oluþturacaðýmýz. classýmýzý tutacaðýz.
+(context oluþturulmadan önce db context yapabilmek için entity framewrok indiriyoruz yine d.a.l içine)
+-usýng ýle entities alýnýr /referencesde, add reference diyip entitiesi eklememiz ayný iþlemdir 'ctrl .' olayý add referencesin kýsa yoludur.
+--entityframework dosyasýna repository olusturulur(class)
+repositoryde 'ctrl .' ile implement yapýlýr
+içine IQueryable eklenir--(save de olabilir kontrol et)
+
+////////Connection string tanýmlanýyor blog-webuý içinde web confýgde/////////////
+örnek
+  </appSettings> // bunun altýna tanýmlanacak
+  <connectionStrings>
+    <add name="BlogContext" providerName="System.Data.SqlClient" connectionString="Server=203-BAHADIR;Database=Database_Blog;Integrated Security=true"/>
+  </connectionStrings>
+
+  database ve server deðiþir.  baþtaki name'de deðiþir
+
+////sonra solutýondan nuget packagedan dal katmanýna, webuý ve business layer katmanýna entityframework eklemesi yapýlýr. 
+
+//////Business layere eklemeler
+ --ilk olarak test classý eklenir(database oluþumu için yapýlýr.)
+
+ //entityframeworksql içinde singleton classý olusturulur 
+ 
+
+ 
+ ////FakeData////
+ -FakeDatayý Nugetten D.a.l'a yüklüyoruz. 
+ -DbInitializer isminde bir class oluþturacagýz. bu class içinde faket datalarýmýzýn ver tabanýnda olusmasý ýcýn gereken kodlarý yazacagýz.
+ //FakeData dll'lini ekledikten sonra bu MyDbInitializer classýný oluþturuyorum. Bu class, database ilk olustugu anda ilk verilerin yani geliþtirme aþamasýnda kullanacaðýmýz test verilerinin oluþturulup database'e yüklenmesi amacý ile oluþturulmuþtur.
+	//Bu classýn ne zaman çalýþacaðýna iliþkin bilgiyi miras yoluyla verdiðimiz farklý bir class belirleyecek. 
+	//CreateDataBaseIfnotExist<>: Database yoksa çalýþýr
+	//DropCreateDatabaseAlways<>: Database'i sil ve yeniden yarat her çalýþtýðýnda.
+	//DropCreateDatabaseIfModelChanges: Eðer herhangi bir tablo dðeiþirse Database i sil ve yeniden yarat
+
+
+	///arayuzu(template) alýyoruz(bootstrapten indirmiþ)////
+
+	--webUI içine dosyalar ve tarayýcýlý olaný alýyoruz . css dosyalarýný alýp contetýn içine alýyoruz.
+
+	--sayfayý(indexi) index html den alýp layoutun içinddekileri silip layoutun içine atýyoruz.
+	--page conteeti alýp homeun altýndaký ýndexe yapýstýrdýk(renderbody()unutmaaa!!!)
+
+	--css ve js dosyalarýný surukleyerek lýnklerýn kendý yerýne alman lazým //altgr ü nün diðer versiyonu
+
+	https://getbootstrap.com/docs/3.3/components/ // iconlar
+
+	//sol navbarý sabitlemek için partial layout actýk viewsde shared altýnda//
+
+
+	//busýnesslayerde catagory manager classý olusturuyoruz.
+
+	--partial categoriese gelip kategori görünümünü deðiþtiriyoruz
+
+	//////Ekranda istediklerimizi yazdýrabilmek için önce homecontroller tarafýnda methodlar olusturuluyor sonrasýnda indeks kýsmý veya baðlý bulunduðu ekranlarda(layout, partial category vb.) deðiþiklikler yapýlýyor/////////
+
+	/////////////giriþ ekraný için////
+
+	öncelikle homecontroller kýsmý doldurulur 
+	sonra model altý viewmodels olusturulur oralar da tanýmlanýr

@@ -1,0 +1,17 @@
+﻿@using Blog_WebUI.Models
+@using Entities
+@{
+
+    List<Category> categories = CacheHelper.GetCategoriesFromCache();
+
+}
+<p class="lead">Kategoriler</p>
+<div class="list-group">
+    <a href="@Url.Action("Index", "Home")" class="list-group-item">Tümü<span class="glyphicon glyphicon-arrow-right"></span></a>
+    @foreach (Category category in categories)
+    {
+        <a href="@Url.Action("SelectCategory", "Home", new { id=category.Id})" class="list-group-item">@category.Title</a>
+    }
+
+
+</div>

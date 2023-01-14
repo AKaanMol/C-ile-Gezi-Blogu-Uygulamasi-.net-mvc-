@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Entities.Note>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<p>
+    @BootStrap.LinkButton("/Note/Create/", "primary", string.Empty, "Yeni Kayıt", string.Empty, "Kayıt Ekle")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Category.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th class="col-lg-2">
+            @Html.DisplayNameFor(model => model.Text)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsDraft)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LikeCount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ModifiedUserName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Text)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDraft)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LikeCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedUserName)
+            </td>
+            <td>
+
+                <button class="btn btn-success btn-xs" data-toggle="modal" data-target="#modal_yorum" data-note-id="@item.Id"><span class="glyphicon glyphicon-comment"></span></button>
+
+                @BootStrap.LinkButton("/Note/Edit/" + item.Id, "warning", "btn-xs", "Düzenle", "edit", string.Empty)
+                @BootStrap.LinkButton("/Note/Details/" + item.Id, "info", "btn-xs", "Detaylar", "search", string.Empty)
+                @BootStrap.LinkButton("/Note/Delete/" + item.Id, "danger", "btn-xs", "Düzenle", "trash", string.Empty)
+            </td>
+        </tr>
+    }
+
+</table>
+@BootStrap.ModalPopup("modal_yorum", "Yorumlar", true)
+<script src="~/js/comment.js"></script>

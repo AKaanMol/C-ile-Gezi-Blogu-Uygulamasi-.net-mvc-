@@ -1,0 +1,360 @@
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.rsp
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.rsp
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.AppContext.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Console.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Http.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.ValueTuple.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.rsp
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CopyComplete
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.dll
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.pdb
+C:\Users\AKSAM YAZILIM\source\repos\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.AssemblyReference.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.pdb
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.rsp
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.rsp
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.AppContext.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Console.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Http.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.ValueTuple.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.rsp
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.AssemblyReference.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CoreCompileInputs.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CopyComplete
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll.config
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe.config
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.rsp
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe.config
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.rsp
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.AppContext.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Console.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Http.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.ValueTuple.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe.config
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.rsp
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.xml
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.xml
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.xml
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.xml
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.xml
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CopyComplete
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.AssemblyReference.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.pdb
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.rsp
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.rsp
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.AppContext.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Console.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Http.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.ValueTuple.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.rsp
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.AssemblyReference.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CoreCompileInputs.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CopyComplete
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\BlogMVC_Projesi (1)\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.pdb
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll.config
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\UygulamaHelperMaili.pdb
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csc.rsp
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\csi.rsp
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.AppContext.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Console.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Http.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.ValueTuple.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\vbc.rsp
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Razor.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Webpages.Razor.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Helpers.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\System.Web.Mvc.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.AssemblyReference.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CoreCompileInputs.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaMailHelper.csproj.CopyComplete
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.dll
+C:\Users\rb_ak\OneDrive\Masaüstü\Gezi-Blogu-web-uygulamasi\BlogMVC_Projesi\UygulamaHelperMaili\obj\Debug\UygulamaHelperMaili.pdb

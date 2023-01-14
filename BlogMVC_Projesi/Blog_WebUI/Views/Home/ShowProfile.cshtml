@@ -1,0 +1,38 @@
+﻿@using Entities
+@model BlogUser
+@{
+    ViewBag.Title = "ShowProfile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <h2>@ViewBag.Title</h2>
+
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-2 col-lg-offset-5">
+            <img src="~/Images/@Model.UserProfileImage"
+                 class="img-circle" width="150" height="150" />
+        </div>
+        <div class="col-md-9 col-lg-offset-3">
+            <h3>@(Model.Name +" " + Model.Surname)</h3>
+            <h4>@Model.Email</h4>
+            <br />
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-2 col-lg-offset-4">
+        <a href="@(Url.Action("EditProfile"))"><span class="btn btn-success glyphicon glyphicon-edit">Düzenle</span></a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="@(Url.Action("DeleteProfile"))" onclick="return confirm('Silmek istediğinize emin misiniz?');"><span class="btn btn-danger glyphicon glyphicon-trash">Sil</span></a>
+    </div>
+    <hr />
+</div>
+@section footer{
+    @Html.Partial("_PartialFooter")
+}
